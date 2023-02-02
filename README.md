@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kubernetes Certified Application Developer (CKAD)**
 
-- 💬 Ask me about **devops, automation**
+- 💬 Ask me about **AWS, Docker, Kubernetes, ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
