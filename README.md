@@ -8,7 +8,7 @@
 <img align="right" alt=“coding” width=“400” src=https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 <div>&nbsp;</div>
-
+<div>&nbsp;</div>
 
 - 🌱 I’m currently learning **Kubernetes Certified Application Developer (CKAD)**
 
