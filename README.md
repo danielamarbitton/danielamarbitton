@@ -1,4 +1,4 @@
-[![MasterHead](https://www.fullcontact.com/wp-content/uploads/2021/06/DevOps-SRE-Blog-header@2x-1440x300.png)]
+![MasterHead](https://www.fullcontact.com/wp-content/uploads/2021/06/DevOps-SRE-Blog-header@2x-1440x300.png)
 
 <h1 align="center">Hi 👋, I'm Daniel Amar Bitton</h1>
 <h3 align="center">A passionate developer from Canada</h3>
