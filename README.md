@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Amar Bitton</h1>
 <h3 align="center">A passionate developer from Canada</h3>
-<img align=“right” alt=“coding” width=“400” src=https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC>
+<img align=“right” alt=“coding” width=“400” src=https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 
 
